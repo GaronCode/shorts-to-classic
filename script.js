@@ -6,7 +6,6 @@
 // @author       Garon
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @match        https://github.com/GaronCode/shorts-to-classic/blob/main/script.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
