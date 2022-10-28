@@ -4,8 +4,8 @@
 // @version      1.1
 // @homepageURL  https://github.com/GaronCode/shorts-to-classic
 // @supportURL   https://github.com/GaronCode/shorts-to-classic/issues
-// @updateURL    https://raw.githubusercontent.com/GaronCode/shorts-to-classic/main/script.js
-// @downloadURL  https://raw.githubusercontent.com/GaronCode/shorts-to-classic/main/script.js
+// @updateURL    https://raw.githubusercontent.com/GaronCode/shorts-to-classic/main/shortsToClassic.js
+// @downloadURL  https://raw.githubusercontent.com/GaronCode/shorts-to-classic/main/shortsToClassic.js
 // @description  change player to classic in youtube shorts
 // @author       Garon
 // @match        https://www.youtube.com/*
