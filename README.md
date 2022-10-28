@@ -9,5 +9,5 @@ script for Tampermonkey that change YouTube Shorts video player to classic Youtu
     for Firefox: https://addons.mozilla.org/firefox/addon/tampermonkey
     for Google Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 3. click on Tampermonkey button -> Dashboard -> Plus button
-4. replace default content with script.js file content -> save it (Ctrl + S)
+4. replace default content with directLinks.js file content -> save it (Ctrl + S)
 5. now script is working! Enjoy!
